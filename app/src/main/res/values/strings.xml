@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IG-Node 5G</string>
+    <string name="start_node">Start 5G Node</string>
+    <string name="stop_node">Stop Node</string>
+    <string name="status_standby">Standby</string>
+    <string name="status_active">5G Swarm Active</string>
+    <string name="notification_channel_name">IG-Node Swarm Service</string>
+    <string name="notification_channel_desc">Shows active background 5G residential swarm relay status</string>
+</resources>

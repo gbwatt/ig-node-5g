@@ -1,0 +1,3 @@
+-keep class com.igsave.node.** { *; }
+-dontwarn com.google.gson.**
+-dontwarn okhttp3.**
